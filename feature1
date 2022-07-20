@@ -1,5 +1,14 @@
 this is a file for feature 1
 
+<<<<<<< HEAD
 add more line to featue 1
 
 add lkklllls the fifference is of course a good thing because those are the changes that we have made.
+=======
+“This flow is a simplified view of normal software development flow, but hopefully, it is recognizable. The best intuitive description of the stage I’ve ever heard is that we imagine we are the photographer at a family reunion, and we are instructing people on who should go on the next picture, and when we are done with that, we take the photograph. Then, we repeat. In a similar fashion, we use the command add to add a path to the stage. This action is also called staging a file.”
+
+Excerpt From
+Practical Git
+Johan Abildskov
+This material may be protected by copyright.
+>>>>>>> branch2
