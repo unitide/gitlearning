@@ -20,4 +20,11 @@ Johan Abildskov
 This material may be protected by copyright.
 
 “As mentioned, our workspace can be either dirty or clean, when compared to the currently checked-out commit on the repository. Dirty is not a bad word; it simply implies different. This difference is of course a good thing because those are the changes that we have made, but just have not committed yet. 
+<<<<<<< HEAD
 >>>>>>> branch2
+=======
+
+add more lines to text 
+
+add lines which alread staged 
+>>>>>>> branch1

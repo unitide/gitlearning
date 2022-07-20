@@ -11,4 +11,10 @@ Excerpt From
 Practical Git
 Johan Abildskov
 This material may be protected by copyright.
+<<<<<<< HEAD
 >>>>>>> branch2
+=======
+
+
+modify feature1
+>>>>>>> branch1
